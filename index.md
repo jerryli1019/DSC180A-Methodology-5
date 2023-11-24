@@ -1,6 +1,6 @@
 **Name:** Yi Li, **Email:** yil115@ucsd.edu
 
-**Section: B17**, **Mentor:** Hao Zhang
+**Section:** B17, **Mentor:** Hao Zhang
 
 **Question 1:** What is the most interesting topic covered in your domain this quarter?
 
